@@ -1,11 +1,8 @@
-<head>
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
-<style>
+ <style>
 body {
   padding: 0px;
   margin: 0px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Helvetica", sans-serif;
   overflow: hidden;
 }
 
