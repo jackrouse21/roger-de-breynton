@@ -1,6 +1,5 @@
-## Live links
+## Live link
 - Leaflet Map https://jackrouse21.github.io/roger-de-breynton/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1XRkCDXzCeKci6RwLOVYu-cs4Il2dCUF9XXSvRaDQbHw/edit#gid=0
 
 ## Project Info
 Created for E392M Digital Studies Lab: Medieval with Dr. Birkholz (UT-Austin, English) Spring 2021. 
